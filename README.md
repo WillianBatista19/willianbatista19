@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Willian Batista. 👋
 
 - 🌱 Estudando Next.js
-- 😄 Pronouns: ele/dele
-- 🔭 Atualmente não estou trabalhando, apenas estudando
+- 🔭 Apenas estudando
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
 
 <div align="center">
