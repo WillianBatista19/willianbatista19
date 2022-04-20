@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Willian Batista. 👋
 
-- 🌱 Estudando Next.js
 - 🔭 Apenas estudando
+- 🌱 Estudando Next.js
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
+- 📚 Cursando Sistema de informações - 4° Semestre, no IFCE (Crato).
 
 <div align="center">
   <a href="https://github.com/natalnalua">
