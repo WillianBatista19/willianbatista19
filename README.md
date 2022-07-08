@@ -3,7 +3,7 @@
 - 🔭 Apenas estudando
 - 🌱 Estudando Next.js
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
-- 📚 Cursando Sistemas de Informação - 4° Semestre, no IFCE (Crato).
+- 📚 Cursando Sistemas de Informação - 5° Semestre, no IFCE (Crato).
 
 <div align="center">
   <a href="https://github.com/natalnalua">
