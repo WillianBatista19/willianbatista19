@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Willian Batista. 👋
 
 - 🔭 Apenas estudando
-- 🌱 Estudando Next.js
+- 🌱 Estudando React
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
 - 📚 Cursando Sistemas de Informação - 6° Semestre, no IFCE (Crato).
 
