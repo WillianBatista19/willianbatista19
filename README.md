@@ -3,7 +3,7 @@
 - 🔭 Apenas estudando
 - 🌱 Estudando React
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
-- 📚 Cursando Sistemas de Informação - 7° Semestre, no IFCE (Crato).
+- 📚 Cursando Sistemas de Informação - 8° Semestre, no IFCE (Crato).
 
 <div align="center">
   <a href="https://github.com/willianbatista19">
