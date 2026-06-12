@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Willian Batista. 👋
 
-- 🔭 Apenas estudando
+- 🔭 Sempre buscando evoluir 
 - 🌱 Estudando React
 - 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
-- 📚 Cursando Sistemas de Informação - 8° Semestre, no IFCE (Crato).
+- 📚 Sistemas de Informação - IFCE (Crato).
 
 <div align="center">
   <a href="https://github.com/willianbatista19">
