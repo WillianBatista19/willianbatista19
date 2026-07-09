@@ -43,3 +43,4 @@ com arquiteturas modernas e boas práticas de código.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianbatistadev/)
 [![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:willianmoreira.2000.19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portifolio-willian-batista.vercel.app/)
