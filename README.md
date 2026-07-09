@@ -1,41 +1,43 @@
-### Olá! Eu sou o Willian Batista. 👋
+### Olá, eu sou o Willian Batista 👋
 
-- 🔭 Sempre buscando evoluir 
-- 🌱 Estudando React
-- 📫 Contate-me no email: Willianmoreira.2000.19@gmail.com
-- 📚 Sistemas de Informação - IFCE (Crato).
+Desenvolvedor Fullstack com foco em React, Next.js e TypeScript.
+Atuo no desenvolvimento de sistemas empresariais, SaaS e aplicações
+com arquiteturas modernas e boas práticas de código.
 
-<div align="center">
-  <a href="https://github.com/willianbatista19">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willianbatista19&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianbatista19&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+---
 
-Conheça Meu Portfólio: https://fmbportifolio.vercel.app
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="will-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
- <img align="right" alt="will-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/767627817079930901/903372303583285268/ezgif.com-gif-maker.gif?width=432&height=432">
-</div>
-  
-  ##
-  
-<div>
-  <a href="https://bit.ly/3ngZ62V" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/natalnalua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/Natalnalua" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatowillian.alves.batista08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/willian-alves-batista-b32b14206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-</div>
-  
-  ![Snake animation](https://github.com/Natalnalua/natalnalua/blob/output/github-contribution-grid-snake.svg)
-  
+**Sobre mim**
 
-  
+- 💼 Desenvolvedor Front-End na Ivory. (ERP web para mineração)
+- 🎓 Sistemas de Informação — IFCE, Campus Crato
+- 📍 Fortaleza, CE
+
+---
+
+**Stack principal**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+**Projetos em destaque**
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [InsightHub](https://github.com/WillianBatista19/insighthub) | SaaS de analytics para pequenos negócios | Next.js · PostgreSQL · Prisma |
+| [Zapli](https://github.com/WillianBatista19/ZapliApp) | Rede social com integrações Spotify, TMDB e AniList | Next.js · Supabase |
+| [ITSM Lite](https://github.com/WillianBatista19/itsm-lite) | Sistema de helpdesk com controle de acesso por perfis | Next.js · Laravel · PostgreSQL |
+
+---
+
+**Contato**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianbatistadev)
+[![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:willianmoreira.2000.19@gmail.com)
