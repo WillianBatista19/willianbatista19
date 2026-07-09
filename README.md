@@ -25,6 +25,7 @@ com arquiteturas modernas e boas práticas de código.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+
 ---
 
 **Projetos em destaque**
@@ -34,10 +35,11 @@ com arquiteturas modernas e boas práticas de código.
 | [InsightHub](https://github.com/WillianBatista19/insighthub) | SaaS de analytics para pequenos negócios | Next.js · PostgreSQL · Prisma |
 | [Zapli](https://github.com/WillianBatista19/ZapliApp) | Rede social com integrações Spotify, TMDB e AniList | Next.js · Supabase |
 | [ITSM Lite](https://github.com/WillianBatista19/itsm-lite) | Sistema de helpdesk com controle de acesso por perfis | Next.js · Laravel · PostgreSQL |
+| [Marginalia](https://marginalia-app-official.vercel.app/) | Rede social para leitores — no estilo Goodreads/Skoob | Next.js · Supabase · Prisma |
 
 ---
 
 **Contato**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/willianbatistadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianbatistadev/)
 [![Email](https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white)](mailto:willianmoreira.2000.19@gmail.com)
